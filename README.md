@@ -63,19 +63,19 @@ Download the Order Reviews csv file and connect to it in Tableau Desktop.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VU04gc8sYHc?rel=0&si=bIyqfek4s-cm7I4F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 2 Build a sheet to determine the distribution of product ratings
+## 2 - Build a sheet to determine the distribution of product ratings
 
 Let's begin by exploring our data set to understand what product ratings look like. There are many ways visualization types to represent distribution. Choose one that you see fit.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dTUYIrvXSV0?rel=0&si=i5DzLIH8vuYP4NHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 3 Build a sheet to determine the distribution broken down by product type
+## 3 - Build a sheet to determine the distribution broken down by product type
 
 Now that you understand the overall distribution, stratify your data by product type and see if you product type affects the average rating?
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s_npcT_qavw?rel=0&si=IdAF3TnGwNlKdFmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 4 Build a sheet to determine the breakdown of product ratings by location
+## 4 - Build a sheet to determine the breakdown of product ratings by location
 
 How does location impact our product ratings? Experiement with a couple different types of maps. 
 
@@ -83,19 +83,19 @@ How does location impact our product ratings? Experiement with a couple differen
 
 As you can see, with rating on color, we can see some discrepancies. We don't know if these are significant, but we will return to this later. 
 
-## 5 Build a sheet to see how product rating trends day over day
+## 5 - Build a sheet to see how product rating trends day over day
 
 Our data spans 1 month of orders and ratings. Explore how these ratings change day over day.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E1BdFB1OhC8?rel=0&si=sLCFySsPGwPm2hqC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 6 Build a sheet to answer the question: What is the average product rating by weekday?
+## 6 - Build a sheet to answer the question: What is the average product rating by weekday?
 
 Parse out the weekday (e.g. Sun - Sat) from the order timestamp field and see if you can uncover any insights.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gBeruolL4hw?rel=0&si=Y1gjF4V3gPe9_HKf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 7 Build a sheet to answer the question: What is the average product rating by hour of the day? How about by hour of the day and product type?
+## 7 - Build a sheet to answer the question: What is the average product rating by hour of the day? How about by hour of the day and product type?
 
 Parse out hour of the day from the timestamp and see if there are notable trends. Layer in product type as well.
 
@@ -103,37 +103,37 @@ Parse out hour of the day from the timestamp and see if there are notable trends
 
 As you can see there are specific hour - product combos that do stick out quite a bit.
 
-## 8 Filter out any outliers in the viz you built in the previous step. We don't want to show any marks that have fewer than 10 underlying records 
+## 8 - Filter out any outliers in the viz you built in the previous step. We don't want to show any marks that have fewer than 10 underlying records 
 
 Determine how many underlying records are behind each hour - product combo and remove any that are fewer than 10 using a filter. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DNiU-1jLVRU?rel=0&si=DqsOKuo99Dp0GjEK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 9 Add a table extension with Order Reviews.csv as input
+## 9 - Add a table extension with Order Reviews.csv as input
 
 We will now begin configuring our table extension. Begin by dragging out table extension under the existing connection. Then drag out our original data source into the data model as the input of the table extension.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ap6hu9_L5Ok?rel=0&si=kdtruWm_ZoHAF6FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 10 Copy and paste the spatial autocorrelation python code into the table extension
+## 10 - Copy and paste the spatial autocorrelation python code into the table extension
 
 Get the autocorrelation code and paste it into the built-in text editor in the data model. Take a few minutes to read through the code to understand the actions it's performing. What do you expect the output to look like? 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7zlBiXLjOLI?rel=0&si=JT1aaR2NqEeVbBRB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 11 Join the table extension table back into the original data source 
+## 11 - Join the table extension table back into the original data source 
 
 As you saw in the previous step, the table extension does not display an output because we haven't related it back to our original data source. We want to create a relationship between the Order Reviews table and the table extension. Note the table extension only has 2 fields ("I" and "p") and 1 row. How can we build a relationship that ensures we can access these fields in a combined data source? Hint: use a relationship calculation.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SU4JRSb7e1g?rel=0&si=u9GyBejVHmrzbY4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 12 Create sheets that display both the I stat and p value 
+## 12 - Create sheets that display both the I stat and p value 
 
 Create 2 sheets: one for each the I statistic and another for the corresponding p value.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NK2SBlOaBPw?rel=0&si=1wcXFV5ahMj3C3xu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 13 Pull the I stat and p value sheets into a dashboard along with a map of all order locations colored by product rating
+## 13 - Pull the I stat and p value sheets into a dashboard along with a map of all order locations colored by product rating
 
 Let's combine those 2 sheets from the previous step into a dashboard along with a map of all locations colored by rating.
 
@@ -141,13 +141,13 @@ Let's combine those 2 sheets from the previous step into a dashboard along with 
 
 ## Given the patterns we've found in the product ratings across location, we reach out to Geraldine in logistics who is able to send us data on distribution centers!
 
-## 14 Add in the data received from Geraldine, create a relationship based on Order ID
+## 14 - Add in the data received from Geraldine, create a relationship based on Order ID
 
 Go back to the data pane and update your model to include Geraldine's data on distribution centers. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dYRHw_n5xoQ?rel=0&si=WcINYI-cBp9Va5ZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 15 Build a sheet that answers the question: what is the average product rating by distribution center?
+## 15 - Build a sheet that answers the question: what is the average product rating by distribution center?
 
 Does distribution center look like a significant variable?
 
@@ -155,25 +155,25 @@ Does distribution center look like a significant variable?
 
 Similar to the Broad Street Pump example from the 1854 Cholera outbreak, we clearly see location as a significant factor with the underlying distribution centers as the root cause. It's time to call up Geraldine's boss to see what's happening inside San Diego and Redding distribution centers!
 
-## 16 Bonus: Make a calculation for the I stat using TabPy in a calculated field
+## 16 - Bonus: Make a calculation for the I stat using TabPy in a calculated field
 
 Before table extensions, TabPy was used inside a calculated field that acted as a table calculation. Create a "Script_Real" calculation that computes the I statistic.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6B6PsdHExvY?rel=0&si=PTeXAFkc6OOw4Lml" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 17 Bonus: Create a sheet with a single mark that shows the I stat 
+## 17 - Bonus: Create a sheet with a single mark that shows the I stat 
 
 Make sure we can see the I statistic on a single sheet as a single mark. Check to confirm the value is the same as what you got with the table extension. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/reJ3a3gjfBU?rel=0&si=Te5EomMXy4bhz_PA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 18 Bonus: Create a dynamic dashboard that shows the map of all locations, the I stat, and the ability to filter by Product Type 
+## 18 - Bonus: Create a dynamic dashboard that shows the map of all locations, the I stat, and the ability to filter by Product Type 
 
 With the sheet you created, add it to a dashboard with a map of locations. Add in a filter for product type and test out the interactivity.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QxKHY3O7Tc0?rel=0&si=g656MxBvA5vkzAjO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 19 Bonus: Parameterize the I Stat calculation so that it can be computed for both Product Rating and Product Price. Update the dashboard with this new functionality
+## 19 - Bonus: Parameterize the I Stat calculation so that it can be computed for both Product Rating and Product Price. Update the dashboard with this new functionality
 
 Can you update the I stat calculation to let the end user toggle between Product Rating and Product Price to recompute the I stat? If so, add that option to the dashboard and explore new insights. What did you find?
 
