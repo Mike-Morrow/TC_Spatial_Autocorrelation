@@ -61,7 +61,7 @@
 
 <p>Download the Order Reviews csv file and connect to it in Tableau Desktop.</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VU04gc8sYHc?rel=0&si=bIyqfek4s-cm7I4F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@
 
 <p>Let's begin by exploring our data set to understand what product ratings look like. There are many ways visualization types to represent distribution. Choose one that you see fit.</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dTUYIrvXSV0?rel=0&si=i5DzLIH8vuYP4NHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -77,7 +77,7 @@
 
 <p>Now that you understand the overall distribution, stratify your data by product type and see if you product type affects the average rating?</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s_npcT_qavw?rel=0&si=IdAF3TnGwNlKdFmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -85,7 +85,7 @@
 
 <p>How does location impact our product ratings? Experiement with a couple different types of maps.</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fR0XB1fY9q8?rel=0&si=9SOni276X7UtdWWb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -95,7 +95,7 @@
 
 <p>Our data spans 1 month of orders and ratings. Explore how these ratings change day over day.</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E1BdFB1OhC8?rel=0&si=sLCFySsPGwPm2hqC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -103,7 +103,7 @@
 
 <p>Parse out the weekday (e.g. Sun - Sat) from the order timestamp field and see if you can uncover any insights.</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gBeruolL4hw?rel=0&si=Y1gjF4V3gPe9_HKf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -111,7 +111,7 @@
 
 <p>Parse out hour of the day from the timestamp and see if there are notable trends. Layer in product type as well.</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NADJGnxvX9w?rel=0&si=P9JsYllxU_iYkBIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -121,7 +121,7 @@
 
 <p>Determine how many underlying records are behind each hour - product combo and remove any that are fewer than 10 using a filter. </p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DNiU-1jLVRU?rel=0&si=DqsOKuo99Dp0GjEK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -129,7 +129,7 @@
 
 <p>We will now begin configuring our table extension. Begin by dragging out table extension under the existing connection. Then drag out our original data source into the data model as the input of the table extension.</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ap6hu9_L5Ok?rel=0&si=kdtruWm_ZoHAF6FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -137,7 +137,7 @@
 
 <p>Get the autocorrelation code and paste it into the built-in text editor in the data model. Take a few minutes to read through the code to understand the actions it's performing. What do you expect the output to look like? </p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7zlBiXLjOLI?rel=0&si=JT1aaR2NqEeVbBRB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -145,7 +145,7 @@
 
 <p>As you saw in the previous step, the table extension does not display an output because we haven't related it back to our original data source. We want to create a relationship between the Order Reviews table and the table extension. Note the table extension only has 2 fields ("I" and "p") and 1 row. How can we build a relationship that ensures we can access these fields in a combined data source? Hint: use a relationship calculation.</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SU4JRSb7e1g?rel=0&si=u9GyBejVHmrzbY4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -153,7 +153,7 @@
 
 <p>Create 2 sheets: one for each the I statistic and another for the corresponding p value. </p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NK2SBlOaBPw?rel=0&si=1wcXFV5ahMj3C3xu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -161,7 +161,7 @@
 
 <p>Let's combine those 2 sheets from the previous step into a dashboard along with a map of all locations colored by rating.</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ktdUaX_k464?rel=0&si=pCk74kyERO9avK27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -171,7 +171,7 @@
 
 <p>Go back to the data pane and update your model to include Geraldine's data on distribution centers. </p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dYRHw_n5xoQ?rel=0&si=WcINYI-cBp9Va5ZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -179,7 +179,7 @@
 
 <p>Does distribution center look like a significant variable?</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yMWEAl47K-Y?rel=0&si=xF7UwUx-l17jXH9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -190,7 +190,7 @@
 
 <p>Before table extensions, TabPy was used inside a calculated field that acted as a table calculation. Create a "Script_Real" calculation that computes the I statistic.</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6B6PsdHExvY?rel=0&si=PTeXAFkc6OOw4Lml" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -198,7 +198,7 @@
 
 <p>Make sure we can see the I statistic on a single sheet as a single mark. Check to confirm the value is the same as what you got with the table extension. </p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/reJ3a3gjfBU?rel=0&si=Te5EomMXy4bhz_PA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -206,7 +206,7 @@
 
 <p>With the sheet you created, add it to a dashboard with a map of locations. Add in a filter for product type and test out the interactivity.</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QxKHY3O7Tc0?rel=0&si=g656MxBvA5vkzAjO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -214,7 +214,7 @@
 
 <p>Can you update the I stat calculation to let the end user toggle between Product Rating and Product Price to recompute the I stat? If so, add that option to the dashboard and explore new insights. What did you find?</p>
 
-</br>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I0Y2mcrhr3U?rel=0&si=yU1NJSX4hUhciw97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
