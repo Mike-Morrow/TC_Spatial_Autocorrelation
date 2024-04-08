@@ -59,7 +59,7 @@
 
 <h2 id="connect-to-data">1 - Connect to data</h2>
 
-Download the Order Reviews csv file and connect to it in Tableau Desktop.
+<p>Download the Order Reviews csv file and connect to it in Tableau Desktop.</p>
 
 </br>
 
@@ -67,7 +67,7 @@ Download the Order Reviews csv file and connect to it in Tableau Desktop.
 
 <h2 id="build-a-sheet-distribution">2 - Build a sheet to determine the distribution of product ratings</h2>
 
-Let's begin by exploring our data set to understand what product ratings look like. There are many ways visualization types to represent distribution. Choose one that you see fit.
+<p>Let's begin by exploring our data set to understand what product ratings look like. There are many ways visualization types to represent distribution. Choose one that you see fit.</p>
 
 </br>
 
@@ -75,7 +75,7 @@ Let's begin by exploring our data set to understand what product ratings look li
 
 <h2 id="build-a-sheet-product-type">3 - Build a sheet to determine the distribution broken down by product type</h2>
 
-Now that you understand the overall distribution, stratify your data by product type and see if you product type affects the average rating?
+<p>Now that you understand the overall distribution, stratify your data by product type and see if you product type affects the average rating?</p>
 
 </br>
 
@@ -83,17 +83,17 @@ Now that you understand the overall distribution, stratify your data by product 
 
 <h2 id="build-a-sheet-location">4 - Build a sheet to determine the breakdown of product ratings by location</h2>
 
-How does location impact our product ratings? Experiement with a couple different types of maps. 
+<p>How does location impact our product ratings? Experiement with a couple different types of maps.</p>
 
 </br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fR0XB1fY9q8?rel=0&si=9SOni276X7UtdWWb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-As you can see, with rating on color, we can see some discrepancies. We don't know if these are significant, but we will return to this later. 
+<p>As you can see, with rating on color, we can see some discrepancies. We don't know if these are significant, but we will return to this later. </p>
 
 <h2 id="build-a-sheet-day-over-day">5 - Build a sheet to see how product rating trends day over day</h2>
 
-Our data spans 1 month of orders and ratings. Explore how these ratings change day over day.
+<p>Our data spans 1 month of orders and ratings. Explore how these ratings change day over day.</p>
 
 </br>
 
@@ -101,7 +101,7 @@ Our data spans 1 month of orders and ratings. Explore how these ratings change d
 
 <h2 id="build-a-sheet-weekday">6 - Build a sheet to answer the question: What is the average product rating by weekday?</h2>
 
-Parse out the weekday (e.g. Sun - Sat) from the order timestamp field and see if you can uncover any insights.
+<p>Parse out the weekday (e.g. Sun - Sat) from the order timestamp field and see if you can uncover any insights.</p>
 
 </br>
 
@@ -109,17 +109,17 @@ Parse out the weekday (e.g. Sun - Sat) from the order timestamp field and see if
 
 <h2 id="build-a-sheet-hour-day">7 - Build a sheet to answer the question: What is the average product rating by hour of the day? How about by hour of the day and product type?</h2>
 
-Parse out hour of the day from the timestamp and see if there are notable trends. Layer in product type as well.
+<p>Parse out hour of the day from the timestamp and see if there are notable trends. Layer in product type as well.</p>
 
 </br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NADJGnxvX9w?rel=0&si=P9JsYllxU_iYkBIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-As you can see there are specific hour - product combos that do stick out quite a bit.
+<p>As you can see there are specific hour - product combos that do stick out quite a bit.</p>
 
 <h2 id="filter-outliers">8 - Filter out any outliers in the viz you built in the previous step. We don't want to show any marks that have fewer than 10 underlying records </h2>
 
-Determine how many underlying records are behind each hour - product combo and remove any that are fewer than 10 using a filter. 
+<p>Determine how many underlying records are behind each hour - product combo and remove any that are fewer than 10 using a filter. </p>
 
 </br>
 
@@ -127,7 +127,7 @@ Determine how many underlying records are behind each hour - product combo and r
 
 <h2 id="table-extension">9 - Add a table extension with Order Reviews.csv as input</h2>
 
-We will now begin configuring our table extension. Begin by dragging out table extension under the existing connection. Then drag out our original data source into the data model as the input of the table extension.
+<p>We will now begin configuring our table extension. Begin by dragging out table extension under the existing connection. Then drag out our original data source into the data model as the input of the table extension.</p>
 
 </br>
 
@@ -135,7 +135,7 @@ We will now begin configuring our table extension. Begin by dragging out table e
 
 <h2 id="spatial-autocorrelation">10 - Copy and paste the spatial autocorrelation python code into the table extension</h2>
 
-Get the autocorrelation code and paste it into the built-in text editor in the data model. Take a few minutes to read through the code to understand the actions it's performing. What do you expect the output to look like? 
+<p>Get the autocorrelation code and paste it into the built-in text editor in the data model. Take a few minutes to read through the code to understand the actions it's performing. What do you expect the output to look like? </p>
 
 </br>
 
@@ -143,7 +143,7 @@ Get the autocorrelation code and paste it into the built-in text editor in the d
 
 <h2 id="join-table-extension">11 - Join the table extension table back into the original data source </h2>
 
-As you saw in the previous step, the table extension does not display an output because we haven't related it back to our original data source. We want to create a relationship between the Order Reviews table and the table extension. Note the table extension only has 2 fields ("I" and "p") and 1 row. How can we build a relationship that ensures we can access these fields in a combined data source? Hint: use a relationship calculation.
+<p>As you saw in the previous step, the table extension does not display an output because we haven't related it back to our original data source. We want to create a relationship between the Order Reviews table and the table extension. Note the table extension only has 2 fields ("I" and "p") and 1 row. How can we build a relationship that ensures we can access these fields in a combined data source? Hint: use a relationship calculation.</p>
 
 </br>
 
@@ -151,7 +151,7 @@ As you saw in the previous step, the table extension does not display an output 
 
 <h2 id="create-sheets">12 - Create sheets that display both the I stat and p value </h2>
 
-Create 2 sheets: one for each the I statistic and another for the corresponding p value.
+<p>Create 2 sheets: one for each the I statistic and another for the corresponding p value. </p>
 
 </br>
 
@@ -159,7 +159,7 @@ Create 2 sheets: one for each the I statistic and another for the corresponding 
 
 <h2 id="pull-into-dashboard">13 - Pull the I stat and p value sheets into a dashboard along with a map of all order locations colored by product rating</h2>
 
-Let's combine those 2 sheets from the previous step into a dashboard along with a map of all locations colored by rating.
+<p>Let's combine those 2 sheets from the previous step into a dashboard along with a map of all locations colored by rating.</p>
 
 </br>
 
@@ -169,7 +169,7 @@ Let's combine those 2 sheets from the previous step into a dashboard along with 
 
 <h2 id="data-from-geraldine">14 - Add in the data received from Geraldine, create a relationship based on Order ID</h2>
 
-Go back to the data pane and update your model to include Geraldine's data on distribution centers. 
+<p>Go back to the data pane and update your model to include Geraldine's data on distribution centers. </p>
 
 </br>
 
@@ -177,18 +177,18 @@ Go back to the data pane and update your model to include Geraldine's data on di
 
 <h2 id="average-product-rating">15 - Build a sheet that answers the question: what is the average product rating by distribution center?</h2>
 
-Does distribution center look like a significant variable?
+<p>Does distribution center look like a significant variable?</p>
 
 </br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yMWEAl47K-Y?rel=0&si=xF7UwUx-l17jXH9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Similar to the Broad Street Pump example from the 1854 Cholera outbreak, we clearly see location as a significant factor with the underlying distribution centers as the root cause. It's time to call up Geraldine's boss to see what's happening inside San Diego and Redding distribution centers!
+<p>Similar to the Broad Street Pump example from the 1854 Cholera outbreak, we clearly see location as a significant factor with the underlying distribution centers as the root cause. It's time to call up Geraldine's boss to see what's happening inside San Diego and Redding distribution centers!</p>
 
 
 <h2 id="bonus-calculation">16 - Bonus: Make a calculation for the I stat using TabPy in a calculated field</h2>
 
-Before table extensions, TabPy was used inside a calculated field that acted as a table calculation. Create a "Script_Real" calculation that computes the I statistic.
+<p>Before table extensions, TabPy was used inside a calculated field that acted as a table calculation. Create a "Script_Real" calculation that computes the I statistic.</p>
 
 </br>
 
@@ -196,7 +196,7 @@ Before table extensions, TabPy was used inside a calculated field that acted as 
 
 <h2 id="bonus-single-mark">17 - Bonus: Create a sheet with a single mark that shows the I stat </h2>
 
-Make sure we can see the I statistic on a single sheet as a single mark. Check to confirm the value is the same as what you got with the table extension. 
+<p>Make sure we can see the I statistic on a single sheet as a single mark. Check to confirm the value is the same as what you got with the table extension. </p>
 
 </br>
 
@@ -204,7 +204,7 @@ Make sure we can see the I statistic on a single sheet as a single mark. Check t
 
 <h2 id="bonus-dynamic-dashboard">18 - Bonus: Create a dynamic dashboard that shows the map of all locations, the I stat, and the ability to filter by Product Type </h2>
 
-With the sheet you created, add it to a dashboard with a map of locations. Add in a filter for product type and test out the interactivity.
+<p>With the sheet you created, add it to a dashboard with a map of locations. Add in a filter for product type and test out the interactivity.</p>
 
 </br>
 
@@ -212,13 +212,13 @@ With the sheet you created, add it to a dashboard with a map of locations. Add i
 
 <h2 id="bonus-parameterize">19 - Bonus: Parameterize the I Stat calculation so that it can be computed for both Product Rating and Product Price. Update the dashboard with this new functionality</h2>
 
-Can you update the I stat calculation to let the end user toggle between Product Rating and Product Price to recompute the I stat? If so, add that option to the dashboard and explore new insights. What did you find?
+<p>Can you update the I stat calculation to let the end user toggle between Product Rating and Product Price to recompute the I stat? If so, add that option to the dashboard and explore new insights. What did you find?</p>
 
 </br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I0Y2mcrhr3U?rel=0&si=yU1NJSX4hUhciw97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Congrats on making it to the end! 
+<p>Congrats on making it to the end! </p>
 
 </div>
 
