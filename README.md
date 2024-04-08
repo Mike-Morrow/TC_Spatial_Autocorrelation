@@ -32,30 +32,48 @@
     <h3>Table of Contents</h3>
     <ul>
         <li><a href="#connect-to-data">1 - Connect to data</a></li>
+    </br>
         <li><a href="#build-a-sheet-distribution">2 - Build a sheet to determine the distribution</a></li>
+      </br>
         <li><a href="#build-a-sheet-product-type">3 - Build a sheet by product type</a></li>
-        <li><a href="#build-a-sheet-location">4 - Build a sheet by location</a></li>
-        <li><a href="#build-a-sheet-day-over-day">5 - Build a sheet day over day</a></li>
-        <li><a href="#build-a-sheet-weekday">6 - Build a sheet by weekday</a></li>
-        <li><a href="#build-a-sheet-hour-day">7 - Build a sheet by hour of the day</a></li>
-        <li><a href="#filter-outliers">8 - Filter out any outliers</a></li>
-        <li><a href="#table-extension">9 - Add a table extension</a></li>
-        <li><a href="#spatial-autocorrelation">10 - Spatial autocorrelation python code</a></li>
-        <li><a href="#join-table-extension">11 - Join the table extension table</a></li>
-        <li><a href="#create-sheets">12 - Create sheets for I stat and p value</a></li>
-        <li><a href="#pull-into-dashboard">13 - Pull into a dashboard</a></li>
-        <li><a href="#data-from-geraldine">14 - Add in data from Geraldine</a></li>
-        <li><a href="#average-product-rating">15 - Average product rating by distribution center</a></li>
+        </br>
+      <li><a href="#build-a-sheet-location">4 - Build a sheet by location</a></li>
+        </br>
+      <li><a href="#build-a-sheet-day-over-day">5 - Build a sheet day over day</a></li>
+        </br>
+      <li><a href="#build-a-sheet-weekday">6 - Build a sheet by weekday</a></li>
+        </br>
+      <li><a href="#build-a-sheet-hour-day">7 - Build a sheet by hour of the day</a></li>
+        </br>
+      <li><a href="#filter-outliers">8 - Filter out any outliers</a></li>
+        </br>
+      <li><a href="#table-extension">9 - Add a table extension</a></li>
+        </br>
+      <li><a href="#spatial-autocorrelation">10 - Spatial autocorrelation python code</a></li>
+        </br>
+      <li><a href="#join-table-extension">11 - Join the table extension table</a></li>
+        </br>
+      <li><a href="#create-sheets">12 - Create sheets for I stat and p value</a></li>
+        </br>
+      <li><a href="#pull-into-dashboard">13 - Pull into a dashboard</a></li>
+        </br>
+      <li><a href="#data-from-geraldine">14 - Add in data from Geraldine</a></li>
+        </br>
+      <li><a href="#average-product-rating">15 - Average product rating by distribution center</a></li>
         <!-- Bonuses -->
-        <li><a href="#bonus-calculation">16 - Bonus: Make a calculation for the I stat</a></li>
-        <li><a href="#bonus-single-mark">17 - Bonus: Create a sheet with a single mark</a></li>
-        <li><a href="#bonus-dynamic-dashboard">18 - Bonus: Create a dynamic dashboard</a></li>
-        <li><a href="#bonus-parameterize">19 - Bonus: Parameterize the I stat calculation</a></li>
+        </br>
+      <li><a href="#bonus-calculation">16 - Bonus: Make a calculation for the I stat</a></li>
+        </br>
+      <li><a href="#bonus-single-mark">17 - Bonus: Create a sheet with a single mark</a></li>
+        </br>
+      <li><a href="#bonus-dynamic-dashboard">18 - Bonus: Create a dynamic dashboard</a></li>
+        </br>
+      <li><a href="#bonus-parameterize">19 - Bonus: Parameterize the I stat calculation</a></li>
     </ul>
 </div>
 
 <div id="content">
-   # TC Advanced Stats Problem 2: Solving the mystery of sporadic reviews with spatial autocorrelation
+<h1>TC Advanced Stats Problem 2: Solving the mystery of sporadic reviews with spatial autocorrelation</h1>
 
 <h2 id="connect-to-data">1 - Connect to data</h2>
 
