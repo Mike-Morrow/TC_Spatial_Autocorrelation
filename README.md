@@ -133,7 +133,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NADJGnxvX9w?rel=0&si=P9JsYllxU_iYkBIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p>As you can see there are specific hour - product combos that do stick out quite a bit.</p>
+<p>As you can see there are specific hour-product combos that do stick out quite a bit.</p>
 
 <h2 id="filter-outliers">8 - Filter out any outliers in the viz you built in the previous step. We don't want to show any marks that have fewer than 10 underlying records </h2>
 
@@ -146,6 +146,8 @@
 <h2 id="table-extension">9 - Add a table extension with Order Reviews.csv as input</h2>
 
 <p>We will now begin configuring our table extension. Begin by dragging out table extension under the existing connection. Then drag out our original data source into the data model as the input of the table extension.</p>
+
+<p>Note for Windows users using anaconda, you will need to use the forge install command for the gdal package because it will not install using pip. Here is the relevant address:https://anaconda.org/conda-forge/gdal</p>
 
 
 
