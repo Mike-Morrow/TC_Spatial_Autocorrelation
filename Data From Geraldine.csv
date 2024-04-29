@@ -1,0 +1,2713 @@
+Order ID,Distribution Center
+0,San Francisco
+1,Los Angeles
+2,Los Angeles
+3,Los Angeles
+4,Bakersfield
+5,Bakersfield
+6,Redding
+7,Bakersfield
+8,San Francisco
+9,Los Angeles
+10,Los Angeles
+11,Bakersfield
+12,San Francisco
+13,San Diego
+14,Los Angeles
+15,Los Angeles
+16,San Francisco
+17,Redding
+18,Los Angeles
+19,San Francisco
+20,San Francisco
+21,Redding
+22,Los Angeles
+23,San Francisco
+24,San Diego
+25,Los Angeles
+26,San Francisco
+27,Los Angeles
+28,Los Angeles
+29,Los Angeles
+30,Bakersfield
+31,Los Angeles
+32,Redding
+33,Los Angeles
+34,Los Angeles
+35,Los Angeles
+36,San Francisco
+37,Los Angeles
+38,Los Angeles
+39,Los Angeles
+40,Bakersfield
+41,San Diego
+42,Los Angeles
+43,Los Angeles
+44,Los Angeles
+45,San Diego
+46,San Francisco
+47,Los Angeles
+48,San Francisco
+49,Los Angeles
+50,San Francisco
+51,Bakersfield
+52,San Francisco
+53,Los Angeles
+54,Los Angeles
+55,Los Angeles
+56,Redding
+57,Los Angeles
+58,San Francisco
+59,San Francisco
+60,San Francisco
+61,San Francisco
+62,Los Angeles
+63,Redding
+64,Los Angeles
+65,San Diego
+66,San Francisco
+67,Los Angeles
+68,Los Angeles
+69,Los Angeles
+70,San Francisco
+71,Los Angeles
+72,Los Angeles
+73,San Francisco
+74,Redding
+75,San Francisco
+76,San Francisco
+77,Los Angeles
+78,Los Angeles
+79,San Francisco
+80,San Francisco
+81,Los Angeles
+82,Los Angeles
+83,San Francisco
+84,San Francisco
+85,San Francisco
+86,Bakersfield
+88,Redding
+89,San Francisco
+90,Los Angeles
+91,San Francisco
+92,Los Angeles
+93,Los Angeles
+94,San Francisco
+95,Bakersfield
+96,Bakersfield
+97,Redding
+98,Redding
+99,Los Angeles
+100,Los Angeles
+101,San Francisco
+102,Redding
+103,San Diego
+104,Los Angeles
+105,Bakersfield
+106,Redding
+107,Los Angeles
+108,Los Angeles
+109,San Francisco
+110,Los Angeles
+111,Redding
+112,Los Angeles
+113,Los Angeles
+114,San Diego
+115,Los Angeles
+116,Los Angeles
+117,San Francisco
+118,San Diego
+120,San Francisco
+121,Redding
+122,Los Angeles
+123,San Francisco
+124,Los Angeles
+125,Los Angeles
+126,San Francisco
+127,San Francisco
+128,San Francisco
+129,Los Angeles
+130,San Diego
+131,Los Angeles
+132,San Francisco
+133,Los Angeles
+134,Bakersfield
+135,San Francisco
+136,Redding
+137,Los Angeles
+138,Los Angeles
+139,San Francisco
+140,Los Angeles
+141,San Francisco
+142,Los Angeles
+143,Bakersfield
+144,Redding
+146,San Diego
+147,Bakersfield
+148,Los Angeles
+149,Redding
+150,San Diego
+151,San Francisco
+152,Los Angeles
+153,Los Angeles
+154,San Francisco
+155,San Diego
+156,Los Angeles
+157,San Francisco
+158,Bakersfield
+159,Los Angeles
+160,San Diego
+161,Los Angeles
+162,Los Angeles
+163,Los Angeles
+164,San Francisco
+165,San Diego
+166,Los Angeles
+167,San Francisco
+168,Bakersfield
+169,San Diego
+170,Los Angeles
+171,Los Angeles
+172,Los Angeles
+173,Bakersfield
+174,Redding
+175,Los Angeles
+176,Bakersfield
+177,Los Angeles
+178,Redding
+179,Los Angeles
+180,San Francisco
+181,Los Angeles
+182,San Francisco
+183,San Francisco
+184,Los Angeles
+185,Los Angeles
+186,San Diego
+188,Los Angeles
+189,San Francisco
+190,Los Angeles
+191,San Diego
+192,Los Angeles
+193,Los Angeles
+194,San Diego
+195,San Diego
+196,Redding
+197,San Francisco
+198,Bakersfield
+200,Redding
+201,Redding
+202,San Francisco
+203,Los Angeles
+204,Los Angeles
+205,San Francisco
+206,San Francisco
+207,San Francisco
+208,San Francisco
+209,San Diego
+210,San Francisco
+211,Los Angeles
+212,Los Angeles
+213,Redding
+214,Redding
+215,San Francisco
+216,San Francisco
+217,Los Angeles
+218,San Francisco
+219,Los Angeles
+220,San Francisco
+221,Redding
+222,Los Angeles
+223,Los Angeles
+224,Redding
+225,San Francisco
+226,Los Angeles
+227,Los Angeles
+228,San Diego
+229,San Francisco
+230,San Francisco
+231,San Francisco
+232,San Francisco
+233,Los Angeles
+234,San Francisco
+235,Bakersfield
+236,Los Angeles
+237,San Francisco
+238,Bakersfield
+239,San Francisco
+240,Redding
+241,San Diego
+242,Redding
+243,Bakersfield
+244,San Diego
+245,Los Angeles
+246,Los Angeles
+247,San Diego
+248,Los Angeles
+249,Bakersfield
+250,San Francisco
+251,Los Angeles
+252,San Diego
+253,Bakersfield
+254,San Francisco
+255,Los Angeles
+256,San Diego
+257,Los Angeles
+258,San Diego
+259,Los Angeles
+260,Bakersfield
+261,Los Angeles
+262,Los Angeles
+263,San Francisco
+264,Redding
+265,San Diego
+266,Bakersfield
+267,San Francisco
+268,Los Angeles
+269,San Francisco
+271,San Francisco
+272,San Francisco
+273,San Francisco
+274,San Diego
+275,Los Angeles
+276,San Diego
+277,San Francisco
+278,Los Angeles
+279,San Francisco
+280,Los Angeles
+281,Los Angeles
+282,San Diego
+283,San Francisco
+284,Redding
+285,San Francisco
+286,San Diego
+287,San Francisco
+288,Los Angeles
+289,Los Angeles
+290,San Francisco
+291,Los Angeles
+292,San Diego
+293,Los Angeles
+294,Los Angeles
+295,Los Angeles
+296,Los Angeles
+297,Los Angeles
+298,Los Angeles
+299,San Francisco
+300,San Francisco
+301,Los Angeles
+302,Los Angeles
+303,Redding
+304,Los Angeles
+305,Los Angeles
+306,San Francisco
+307,San Francisco
+308,Los Angeles
+309,Los Angeles
+310,Los Angeles
+311,San Francisco
+312,Redding
+313,Los Angeles
+314,Los Angeles
+315,Los Angeles
+316,San Diego
+317,Los Angeles
+318,Los Angeles
+319,Los Angeles
+320,Los Angeles
+321,San Francisco
+322,San Diego
+324,Bakersfield
+325,San Francisco
+326,Los Angeles
+327,San Francisco
+328,San Francisco
+329,San Francisco
+330,San Diego
+331,Bakersfield
+332,Los Angeles
+333,San Francisco
+334,Los Angeles
+335,Bakersfield
+336,Los Angeles
+337,Los Angeles
+338,Los Angeles
+339,Redding
+340,Los Angeles
+341,Los Angeles
+342,Los Angeles
+343,Los Angeles
+344,San Francisco
+345,Los Angeles
+346,San Diego
+347,Bakersfield
+348,Los Angeles
+350,Los Angeles
+351,San Francisco
+352,San Diego
+353,San Francisco
+354,San Francisco
+355,Los Angeles
+356,Redding
+357,Los Angeles
+358,Redding
+359,San Francisco
+360,Redding
+361,Los Angeles
+362,San Diego
+363,San Diego
+364,San Francisco
+365,Los Angeles
+366,Redding
+367,Los Angeles
+368,San Diego
+369,San Francisco
+370,Bakersfield
+371,Los Angeles
+373,Los Angeles
+374,Los Angeles
+375,Los Angeles
+376,San Francisco
+377,Bakersfield
+378,San Diego
+379,San Francisco
+380,Los Angeles
+381,San Francisco
+382,Los Angeles
+383,San Francisco
+385,Los Angeles
+386,Bakersfield
+387,Bakersfield
+388,Redding
+389,San Francisco
+391,San Francisco
+392,San Francisco
+393,San Diego
+394,Bakersfield
+395,Redding
+396,Los Angeles
+397,Los Angeles
+398,Bakersfield
+399,Los Angeles
+400,San Francisco
+401,Los Angeles
+402,Los Angeles
+403,Bakersfield
+404,Los Angeles
+405,Bakersfield
+406,Los Angeles
+407,Redding
+408,Bakersfield
+409,San Diego
+410,San Francisco
+411,Los Angeles
+412,Los Angeles
+413,Bakersfield
+414,Los Angeles
+415,San Francisco
+416,Los Angeles
+417,Los Angeles
+418,Los Angeles
+419,San Francisco
+420,San Francisco
+421,Los Angeles
+422,Los Angeles
+423,Los Angeles
+424,Los Angeles
+425,San Diego
+426,San Diego
+427,San Francisco
+428,San Francisco
+429,Bakersfield
+430,San Francisco
+431,Bakersfield
+432,Los Angeles
+433,San Diego
+435,Redding
+436,Los Angeles
+437,Bakersfield
+438,Bakersfield
+439,Los Angeles
+440,Los Angeles
+441,San Francisco
+442,San Francisco
+443,Los Angeles
+444,Los Angeles
+445,Los Angeles
+446,San Diego
+447,Redding
+448,Los Angeles
+449,Los Angeles
+450,Los Angeles
+451,Los Angeles
+452,Los Angeles
+453,Los Angeles
+454,San Francisco
+456,Los Angeles
+457,Los Angeles
+458,Redding
+459,Los Angeles
+460,Los Angeles
+461,Los Angeles
+462,Los Angeles
+463,Los Angeles
+464,Redding
+465,San Francisco
+466,San Francisco
+467,Bakersfield
+468,Los Angeles
+469,Los Angeles
+470,Los Angeles
+471,San Francisco
+472,Bakersfield
+473,Los Angeles
+474,San Francisco
+475,Redding
+476,San Francisco
+477,Los Angeles
+478,Los Angeles
+479,Bakersfield
+480,Redding
+481,Los Angeles
+482,Los Angeles
+483,San Diego
+484,Los Angeles
+485,San Francisco
+486,San Francisco
+487,Los Angeles
+488,Los Angeles
+489,Los Angeles
+491,Bakersfield
+492,Bakersfield
+493,San Francisco
+494,San Diego
+495,San Francisco
+496,San Diego
+497,Los Angeles
+498,San Francisco
+499,Los Angeles
+500,Los Angeles
+501,Redding
+502,San Diego
+503,Bakersfield
+504,San Francisco
+505,Los Angeles
+506,San Francisco
+507,Bakersfield
+508,San Diego
+509,San Francisco
+510,San Diego
+511,Los Angeles
+512,San Francisco
+513,Los Angeles
+514,Los Angeles
+515,Los Angeles
+516,Redding
+517,Los Angeles
+518,Los Angeles
+519,Bakersfield
+520,San Diego
+521,Redding
+523,San Francisco
+524,Los Angeles
+525,Redding
+526,San Francisco
+527,San Francisco
+528,San Diego
+529,San Francisco
+530,Redding
+531,Los Angeles
+532,Los Angeles
+533,Los Angeles
+534,Redding
+535,San Francisco
+536,Redding
+537,San Diego
+538,San Francisco
+539,Los Angeles
+540,Los Angeles
+541,San Diego
+542,Los Angeles
+543,San Francisco
+544,Redding
+545,Los Angeles
+546,Bakersfield
+547,Los Angeles
+548,San Diego
+549,Los Angeles
+550,San Francisco
+551,San Francisco
+552,San Francisco
+553,San Francisco
+554,San Francisco
+555,Los Angeles
+556,Redding
+557,Los Angeles
+558,Bakersfield
+559,Los Angeles
+560,Los Angeles
+561,Los Angeles
+562,Los Angeles
+563,Redding
+564,San Francisco
+565,San Diego
+566,Los Angeles
+567,San Diego
+568,San Francisco
+569,San Francisco
+570,Los Angeles
+571,Los Angeles
+572,Redding
+573,San Diego
+574,Los Angeles
+575,Redding
+576,Los Angeles
+577,Los Angeles
+578,Los Angeles
+579,Redding
+580,San Francisco
+581,San Diego
+582,Los Angeles
+583,San Francisco
+584,San Francisco
+585,San Diego
+586,San Francisco
+587,Redding
+588,San Francisco
+589,San Diego
+590,Los Angeles
+591,San Francisco
+592,Los Angeles
+593,Los Angeles
+594,San Francisco
+595,Redding
+596,San Francisco
+597,Los Angeles
+598,Los Angeles
+599,Redding
+600,Bakersfield
+601,Los Angeles
+602,Los Angeles
+603,Los Angeles
+604,San Francisco
+605,San Francisco
+606,San Diego
+607,San Diego
+608,Bakersfield
+609,San Diego
+610,Los Angeles
+611,Los Angeles
+612,Los Angeles
+613,Bakersfield
+614,Redding
+615,Los Angeles
+616,San Francisco
+617,Los Angeles
+618,Bakersfield
+619,Los Angeles
+620,San Francisco
+621,Bakersfield
+622,Los Angeles
+623,San Diego
+624,Los Angeles
+625,Los Angeles
+626,Los Angeles
+627,San Francisco
+628,Redding
+629,Bakersfield
+630,Los Angeles
+631,Los Angeles
+632,Los Angeles
+633,San Francisco
+634,Los Angeles
+635,San Francisco
+636,San Francisco
+637,San Francisco
+638,Los Angeles
+639,San Francisco
+640,San Francisco
+641,San Francisco
+642,Los Angeles
+643,Los Angeles
+644,Redding
+645,San Francisco
+646,San Francisco
+647,Los Angeles
+648,Bakersfield
+649,San Francisco
+650,Los Angeles
+651,San Francisco
+652,Bakersfield
+653,San Francisco
+654,Los Angeles
+655,San Francisco
+656,San Francisco
+657,Los Angeles
+658,San Francisco
+659,Redding
+660,San Francisco
+661,Los Angeles
+662,Los Angeles
+663,Los Angeles
+664,Redding
+665,Los Angeles
+666,San Francisco
+667,San Francisco
+668,Los Angeles
+669,Los Angeles
+670,Los Angeles
+671,San Diego
+672,San Diego
+673,Los Angeles
+674,San Diego
+675,Los Angeles
+676,Los Angeles
+677,Los Angeles
+678,Bakersfield
+679,Los Angeles
+680,Los Angeles
+681,Los Angeles
+682,San Diego
+683,San Francisco
+684,Los Angeles
+685,Los Angeles
+686,San Francisco
+687,Redding
+688,San Francisco
+689,Los Angeles
+690,Los Angeles
+691,Los Angeles
+692,San Francisco
+693,Los Angeles
+694,San Francisco
+695,San Francisco
+697,Los Angeles
+698,Los Angeles
+699,Los Angeles
+700,Los Angeles
+701,Los Angeles
+702,San Francisco
+703,Los Angeles
+704,Los Angeles
+705,Los Angeles
+706,San Diego
+707,San Francisco
+708,Los Angeles
+709,Los Angeles
+710,San Francisco
+711,Redding
+712,San Francisco
+713,San Francisco
+714,San Francisco
+715,Los Angeles
+716,San Francisco
+717,San Francisco
+718,Bakersfield
+719,San Francisco
+720,San Diego
+721,Bakersfield
+722,Redding
+723,San Francisco
+724,San Diego
+725,Los Angeles
+726,San Diego
+727,Los Angeles
+728,Los Angeles
+729,Redding
+730,Bakersfield
+731,San Francisco
+732,Bakersfield
+734,Los Angeles
+735,Los Angeles
+737,San Diego
+738,Los Angeles
+739,Redding
+740,San Diego
+741,Los Angeles
+742,San Francisco
+743,San Francisco
+744,San Francisco
+745,Los Angeles
+747,Los Angeles
+748,San Francisco
+749,Los Angeles
+750,San Francisco
+751,Los Angeles
+752,Los Angeles
+753,Los Angeles
+754,Redding
+755,Redding
+756,Redding
+757,Los Angeles
+758,Los Angeles
+759,Redding
+760,Redding
+761,Los Angeles
+762,San Francisco
+763,San Diego
+764,San Francisco
+765,Bakersfield
+766,Los Angeles
+767,Bakersfield
+768,San Diego
+769,Bakersfield
+770,Redding
+771,San Diego
+772,Los Angeles
+773,Redding
+774,Los Angeles
+775,Redding
+776,San Diego
+777,Los Angeles
+778,San Francisco
+779,Redding
+780,San Francisco
+782,Redding
+783,Los Angeles
+784,Los Angeles
+785,Bakersfield
+786,San Francisco
+787,Los Angeles
+789,Los Angeles
+790,Redding
+791,San Francisco
+792,Los Angeles
+793,Los Angeles
+794,San Francisco
+795,San Francisco
+796,San Francisco
+797,Los Angeles
+798,San Francisco
+799,San Francisco
+800,Bakersfield
+801,Los Angeles
+802,San Diego
+803,Los Angeles
+804,Redding
+807,San Francisco
+808,Los Angeles
+809,Los Angeles
+810,San Francisco
+811,Los Angeles
+812,Bakersfield
+813,Los Angeles
+814,Bakersfield
+815,Los Angeles
+816,Redding
+817,Los Angeles
+818,Los Angeles
+819,San Francisco
+821,Bakersfield
+822,San Francisco
+823,Redding
+824,San Francisco
+825,Los Angeles
+826,Los Angeles
+827,San Francisco
+828,Los Angeles
+829,Los Angeles
+830,Los Angeles
+832,San Francisco
+833,Los Angeles
+834,Los Angeles
+835,San Francisco
+836,Los Angeles
+837,San Francisco
+838,Redding
+839,Los Angeles
+841,Los Angeles
+842,Los Angeles
+843,Los Angeles
+844,Los Angeles
+845,Bakersfield
+846,San Francisco
+847,Redding
+848,Los Angeles
+849,Redding
+850,Los Angeles
+851,Los Angeles
+852,Los Angeles
+853,Los Angeles
+854,San Francisco
+855,Los Angeles
+856,Los Angeles
+857,San Francisco
+858,Redding
+859,Redding
+860,Los Angeles
+861,Redding
+862,Los Angeles
+863,Los Angeles
+864,Los Angeles
+865,Los Angeles
+867,San Diego
+868,Redding
+869,San Diego
+870,San Francisco
+871,Los Angeles
+872,San Francisco
+873,Los Angeles
+874,San Francisco
+875,Los Angeles
+876,San Francisco
+877,Los Angeles
+878,San Francisco
+879,San Francisco
+880,San Francisco
+881,Redding
+882,San Diego
+883,Los Angeles
+884,Los Angeles
+885,Los Angeles
+886,Bakersfield
+887,San Diego
+888,Los Angeles
+889,Los Angeles
+890,San Francisco
+891,Los Angeles
+892,Redding
+893,Los Angeles
+894,San Francisco
+895,Los Angeles
+896,San Francisco
+897,Los Angeles
+898,Redding
+899,San Francisco
+900,San Diego
+901,San Francisco
+902,San Francisco
+903,Redding
+904,San Francisco
+905,Los Angeles
+906,Los Angeles
+907,San Francisco
+908,Los Angeles
+909,Bakersfield
+910,Redding
+911,Bakersfield
+912,San Francisco
+913,Redding
+914,San Francisco
+915,Los Angeles
+916,Los Angeles
+917,San Francisco
+918,Los Angeles
+919,Los Angeles
+920,Los Angeles
+921,Los Angeles
+922,San Francisco
+923,Redding
+924,Bakersfield
+925,Redding
+926,Los Angeles
+927,Los Angeles
+928,San Francisco
+930,Bakersfield
+931,Los Angeles
+932,Los Angeles
+933,San Francisco
+934,Redding
+935,San Francisco
+936,San Francisco
+937,San Francisco
+938,Los Angeles
+939,Los Angeles
+940,San Diego
+943,San Francisco
+944,San Diego
+945,San Diego
+946,Los Angeles
+947,Los Angeles
+948,Los Angeles
+949,San Francisco
+950,San Francisco
+951,San Francisco
+952,Los Angeles
+953,San Francisco
+954,Los Angeles
+955,Los Angeles
+956,Los Angeles
+957,Bakersfield
+958,San Francisco
+959,Los Angeles
+961,Bakersfield
+962,Los Angeles
+963,Redding
+964,Bakersfield
+966,San Francisco
+967,Bakersfield
+968,San Diego
+970,Redding
+971,Redding
+972,Redding
+973,Los Angeles
+974,San Diego
+975,Los Angeles
+976,Los Angeles
+977,Redding
+978,Redding
+979,San Diego
+980,Los Angeles
+981,Los Angeles
+983,Los Angeles
+984,San Diego
+985,San Francisco
+986,Los Angeles
+987,Los Angeles
+988,San Francisco
+989,San Diego
+990,Los Angeles
+991,Los Angeles
+992,San Diego
+993,San Francisco
+994,San Francisco
+995,Bakersfield
+996,Los Angeles
+997,Los Angeles
+998,Los Angeles
+999,Los Angeles
+1000,Bakersfield
+1001,Redding
+1002,Los Angeles
+1003,San Francisco
+1004,Los Angeles
+1005,San Diego
+1006,Bakersfield
+1007,Bakersfield
+1008,Los Angeles
+1009,Los Angeles
+1010,San Francisco
+1011,Bakersfield
+1013,San Francisco
+1014,Los Angeles
+1015,San Diego
+1016,San Francisco
+1017,San Francisco
+1018,Redding
+1019,Bakersfield
+1020,San Francisco
+1021,San Francisco
+1022,Los Angeles
+1023,Los Angeles
+1024,Bakersfield
+1025,Los Angeles
+1026,San Diego
+1027,San Francisco
+1028,Los Angeles
+1029,Los Angeles
+1030,Los Angeles
+1031,Redding
+1032,Los Angeles
+1033,Los Angeles
+1034,San Francisco
+1035,Redding
+1037,San Francisco
+1038,Los Angeles
+1039,Bakersfield
+1040,San Francisco
+1041,San Francisco
+1042,San Francisco
+1043,Redding
+1044,San Francisco
+1045,San Diego
+1046,San Francisco
+1047,San Francisco
+1048,Los Angeles
+1049,Los Angeles
+1050,San Francisco
+1051,Bakersfield
+1052,Los Angeles
+1053,San Francisco
+1054,Bakersfield
+1055,San Francisco
+1056,San Francisco
+1057,Bakersfield
+1061,San Francisco
+1062,Redding
+1063,Los Angeles
+1064,Los Angeles
+1066,Los Angeles
+1067,San Diego
+1068,San Francisco
+1069,Bakersfield
+1070,San Francisco
+1071,San Francisco
+1073,Bakersfield
+1074,Bakersfield
+1075,San Francisco
+1076,San Francisco
+1077,San Francisco
+1078,Los Angeles
+1079,Los Angeles
+1080,San Francisco
+1081,San Diego
+1082,Los Angeles
+1083,Los Angeles
+1084,Los Angeles
+1085,Los Angeles
+1086,San Francisco
+1087,Los Angeles
+1088,San Francisco
+1089,Los Angeles
+1090,San Francisco
+1091,Los Angeles
+1092,San Francisco
+1093,Los Angeles
+1094,Redding
+1095,Los Angeles
+1096,Bakersfield
+1097,Los Angeles
+1098,Los Angeles
+1099,Bakersfield
+1100,Los Angeles
+1101,Los Angeles
+1102,Los Angeles
+1103,San Francisco
+1105,Los Angeles
+1106,San Francisco
+1107,Los Angeles
+1108,Los Angeles
+1109,Los Angeles
+1110,Los Angeles
+1111,Redding
+1112,Los Angeles
+1113,Bakersfield
+1115,San Diego
+1116,Los Angeles
+1117,Los Angeles
+1118,Redding
+1119,Los Angeles
+1120,Los Angeles
+1121,San Francisco
+1122,Los Angeles
+1123,San Francisco
+1125,Los Angeles
+1126,San Francisco
+1127,Los Angeles
+1128,Los Angeles
+1129,Los Angeles
+1130,Los Angeles
+1131,Redding
+1132,Redding
+1133,San Francisco
+1134,San Francisco
+1135,Redding
+1136,San Francisco
+1138,Los Angeles
+1139,San Francisco
+1140,Los Angeles
+1141,Los Angeles
+1142,San Francisco
+1143,Los Angeles
+1144,San Francisco
+1145,San Diego
+1146,San Diego
+1147,Redding
+1148,Los Angeles
+1149,Los Angeles
+1150,Bakersfield
+1151,Los Angeles
+1152,Redding
+1153,Los Angeles
+1154,San Francisco
+1155,Los Angeles
+1156,San Francisco
+1157,Los Angeles
+1158,Los Angeles
+1159,San Francisco
+1160,Los Angeles
+1161,Los Angeles
+1162,Los Angeles
+1163,Bakersfield
+1164,Redding
+1165,Redding
+1166,Los Angeles
+1167,Bakersfield
+1168,Redding
+1169,Los Angeles
+1171,Bakersfield
+1172,Los Angeles
+1174,Bakersfield
+1175,San Francisco
+1176,Redding
+1177,Los Angeles
+1178,San Francisco
+1179,San Francisco
+1180,Redding
+1181,Bakersfield
+1182,Los Angeles
+1183,San Francisco
+1184,San Diego
+1185,Los Angeles
+1186,San Diego
+1188,San Diego
+1189,Los Angeles
+1190,Los Angeles
+1191,San Francisco
+1192,San Francisco
+1193,Los Angeles
+1194,Bakersfield
+1195,Los Angeles
+1196,Los Angeles
+1197,San Francisco
+1198,San Francisco
+1199,Los Angeles
+1200,San Francisco
+1201,Los Angeles
+1202,Los Angeles
+1203,San Francisco
+1204,San Francisco
+1205,San Francisco
+1206,San Diego
+1207,San Francisco
+1208,San Diego
+1209,San Francisco
+1210,Los Angeles
+1211,San Francisco
+1212,Bakersfield
+1213,Los Angeles
+1214,San Francisco
+1215,San Diego
+1216,San Francisco
+1217,Bakersfield
+1218,San Francisco
+1219,Los Angeles
+1220,San Francisco
+1221,San Francisco
+1222,Los Angeles
+1223,Los Angeles
+1224,San Diego
+1225,San Diego
+1226,Redding
+1227,San Diego
+1228,San Francisco
+1229,San Francisco
+1230,San Diego
+1231,San Francisco
+1232,San Diego
+1233,San Diego
+1234,Los Angeles
+1235,San Francisco
+1236,Los Angeles
+1237,Los Angeles
+1238,Los Angeles
+1239,Los Angeles
+1240,Redding
+1241,San Diego
+1242,Los Angeles
+1243,San Francisco
+1244,Los Angeles
+1245,San Francisco
+1246,Los Angeles
+1247,San Diego
+1248,San Diego
+1250,Redding
+1251,Bakersfield
+1252,San Francisco
+1253,San Francisco
+1254,San Francisco
+1255,Los Angeles
+1256,Los Angeles
+1257,Los Angeles
+1258,San Diego
+1259,San Diego
+1260,San Francisco
+1261,Los Angeles
+1262,San Francisco
+1263,Los Angeles
+1264,San Francisco
+1265,Los Angeles
+1266,Los Angeles
+1267,Los Angeles
+1268,Los Angeles
+1269,Los Angeles
+1270,San Francisco
+1271,San Francisco
+1272,Los Angeles
+1273,San Francisco
+1274,Los Angeles
+1275,Los Angeles
+1276,San Francisco
+1277,San Francisco
+1278,San Francisco
+1279,San Francisco
+1280,San Francisco
+1281,Los Angeles
+1283,San Diego
+1285,San Francisco
+1286,San Diego
+1287,Bakersfield
+1288,San Diego
+1289,Los Angeles
+1290,Los Angeles
+1291,Bakersfield
+1294,San Francisco
+1295,Los Angeles
+1296,Los Angeles
+1297,Bakersfield
+1298,San Francisco
+1299,Los Angeles
+1300,Redding
+1301,Los Angeles
+1302,Los Angeles
+1303,Los Angeles
+1304,Redding
+1305,Bakersfield
+1306,Los Angeles
+1307,Bakersfield
+1308,Los Angeles
+1309,Los Angeles
+1310,San Francisco
+1311,San Francisco
+1312,San Diego
+1313,Los Angeles
+1314,Los Angeles
+1315,Los Angeles
+1316,Los Angeles
+1317,San Francisco
+1318,Redding
+1319,Los Angeles
+1320,San Diego
+1323,Los Angeles
+1324,San Francisco
+1326,Redding
+1327,San Francisco
+1328,Redding
+1330,Los Angeles
+1331,Los Angeles
+1333,Los Angeles
+1334,San Francisco
+1335,Los Angeles
+1336,Los Angeles
+1337,Bakersfield
+1338,Redding
+1339,San Francisco
+1340,San Francisco
+1341,Los Angeles
+1342,Los Angeles
+1343,Los Angeles
+1344,Los Angeles
+1345,San Francisco
+1346,San Francisco
+1347,Los Angeles
+1348,San Francisco
+1349,San Francisco
+1350,Bakersfield
+1351,Los Angeles
+1352,San Francisco
+1353,San Francisco
+1354,San Francisco
+1355,San Diego
+1356,San Francisco
+1357,Los Angeles
+1358,Redding
+1359,San Francisco
+1360,Los Angeles
+1362,Los Angeles
+1364,San Diego
+1365,Los Angeles
+1366,San Francisco
+1367,Los Angeles
+1368,Los Angeles
+1369,Los Angeles
+1370,San Francisco
+1371,Los Angeles
+1372,Los Angeles
+1373,San Diego
+1374,Los Angeles
+1375,San Diego
+1376,San Francisco
+1377,Bakersfield
+1378,Los Angeles
+1379,Los Angeles
+1380,Los Angeles
+1381,Los Angeles
+1382,Los Angeles
+1383,Los Angeles
+1384,Los Angeles
+1385,San Francisco
+1386,Los Angeles
+1387,San Francisco
+1389,San Diego
+1390,Los Angeles
+1391,Los Angeles
+1392,San Diego
+1393,San Francisco
+1395,San Francisco
+1396,Los Angeles
+1397,Los Angeles
+1398,Los Angeles
+1399,Los Angeles
+1400,Los Angeles
+1401,San Francisco
+1402,Redding
+1403,San Francisco
+1404,San Diego
+1405,San Francisco
+1406,Los Angeles
+1407,Bakersfield
+1408,Redding
+1409,Los Angeles
+1411,San Diego
+1413,San Diego
+1414,San Francisco
+1415,San Diego
+1416,San Francisco
+1417,Redding
+1418,San Francisco
+1419,Los Angeles
+1420,San Francisco
+1421,San Francisco
+1422,Redding
+1423,Los Angeles
+1424,Los Angeles
+1425,San Francisco
+1426,San Francisco
+1427,San Francisco
+1428,San Diego
+1429,Los Angeles
+1430,San Francisco
+1431,Los Angeles
+1432,San Francisco
+1433,Los Angeles
+1434,San Diego
+1435,San Francisco
+1436,Bakersfield
+1437,Los Angeles
+1438,Los Angeles
+1439,San Francisco
+1440,Bakersfield
+1441,Redding
+1442,San Diego
+1443,Los Angeles
+1445,Redding
+1447,Los Angeles
+1448,Redding
+1449,Los Angeles
+1451,Los Angeles
+1452,Redding
+1454,San Diego
+1455,Redding
+1456,Bakersfield
+1458,San Francisco
+1459,San Francisco
+1460,San Francisco
+1461,San Francisco
+1462,Los Angeles
+1463,Bakersfield
+1464,Los Angeles
+1465,Los Angeles
+1466,Los Angeles
+1467,Los Angeles
+1468,San Francisco
+1469,Los Angeles
+1470,Los Angeles
+1471,San Diego
+1472,Los Angeles
+1473,San Francisco
+1474,Redding
+1475,Los Angeles
+1476,Bakersfield
+1477,Redding
+1478,San Francisco
+1479,San Francisco
+1480,Los Angeles
+1481,Los Angeles
+1482,Bakersfield
+1483,San Francisco
+1484,Los Angeles
+1486,Los Angeles
+1487,San Francisco
+1489,Los Angeles
+1490,Redding
+1491,San Diego
+1492,San Francisco
+1493,Los Angeles
+1494,San Diego
+1496,Bakersfield
+1498,Redding
+1499,San Francisco
+1500,Bakersfield
+1501,San Francisco
+1502,Redding
+1503,Redding
+1505,San Francisco
+1506,Redding
+1507,San Francisco
+1508,Los Angeles
+1509,Bakersfield
+1510,San Francisco
+1511,Los Angeles
+1512,San Francisco
+1513,San Diego
+1514,Los Angeles
+1515,Los Angeles
+1516,San Francisco
+1517,San Francisco
+1518,Los Angeles
+1520,Los Angeles
+1521,Los Angeles
+1522,Los Angeles
+1523,Redding
+1524,Bakersfield
+1526,Redding
+1527,San Francisco
+1528,Los Angeles
+1529,Bakersfield
+1530,San Diego
+1531,Redding
+1533,Los Angeles
+1534,San Diego
+1535,Los Angeles
+1536,Los Angeles
+1537,Redding
+1538,Los Angeles
+1539,San Francisco
+1540,Los Angeles
+1541,San Francisco
+1542,Los Angeles
+1543,San Francisco
+1544,San Francisco
+1545,San Francisco
+1546,San Francisco
+1547,Los Angeles
+1548,Redding
+1549,Los Angeles
+1551,San Francisco
+1552,San Francisco
+1553,Los Angeles
+1554,Los Angeles
+1555,Los Angeles
+1556,San Francisco
+1557,San Francisco
+1558,San Francisco
+1559,San Francisco
+1560,Bakersfield
+1561,San Francisco
+1562,Los Angeles
+1563,Los Angeles
+1564,Los Angeles
+1565,Los Angeles
+1566,Bakersfield
+1567,San Francisco
+1568,Los Angeles
+1569,Los Angeles
+1570,Los Angeles
+1571,Los Angeles
+1572,San Francisco
+1573,Redding
+1574,San Diego
+1575,Redding
+1576,Los Angeles
+1577,San Francisco
+1578,San Francisco
+1579,San Francisco
+1580,Los Angeles
+1581,Los Angeles
+1583,Los Angeles
+1584,Bakersfield
+1585,San Diego
+1586,San Francisco
+1588,San Diego
+1589,Redding
+1590,San Francisco
+1591,Bakersfield
+1592,San Francisco
+1593,Los Angeles
+1594,Los Angeles
+1595,San Diego
+1596,Bakersfield
+1597,San Diego
+1598,Los Angeles
+1599,San Francisco
+1600,Los Angeles
+1601,Redding
+1602,San Francisco
+1603,Redding
+1604,San Diego
+1605,Los Angeles
+1606,Los Angeles
+1607,San Diego
+1608,Los Angeles
+1609,San Francisco
+1610,San Francisco
+1611,Los Angeles
+1612,San Diego
+1613,San Francisco
+1615,San Francisco
+1617,San Diego
+1618,Los Angeles
+1619,San Diego
+1620,Redding
+1621,San Diego
+1622,Bakersfield
+1623,Los Angeles
+1624,Los Angeles
+1625,Los Angeles
+1626,San Francisco
+1627,San Francisco
+1628,Redding
+1629,Los Angeles
+1630,Los Angeles
+1631,Los Angeles
+1632,Los Angeles
+1633,Los Angeles
+1634,Los Angeles
+1635,Los Angeles
+1636,Bakersfield
+1637,San Diego
+1638,San Francisco
+1639,San Francisco
+1640,Bakersfield
+1641,Los Angeles
+1643,Los Angeles
+1644,Los Angeles
+1645,San Francisco
+1646,Bakersfield
+1647,Bakersfield
+1649,San Diego
+1650,Los Angeles
+1651,Los Angeles
+1652,Los Angeles
+1653,San Diego
+1654,Los Angeles
+1656,Los Angeles
+1657,Los Angeles
+1658,Redding
+1660,Los Angeles
+1661,Redding
+1662,San Francisco
+1663,Los Angeles
+1664,San Diego
+1666,Redding
+1667,Bakersfield
+1668,San Francisco
+1669,San Diego
+1670,San Francisco
+1671,Los Angeles
+1672,San Francisco
+1673,Redding
+1674,Los Angeles
+1677,Los Angeles
+1678,Los Angeles
+1679,Los Angeles
+1680,Bakersfield
+1681,Redding
+1682,Los Angeles
+1683,San Diego
+1684,Los Angeles
+1685,Los Angeles
+1686,San Francisco
+1687,Bakersfield
+1688,Los Angeles
+1689,Los Angeles
+1690,Los Angeles
+1691,Los Angeles
+1692,Redding
+1694,Bakersfield
+1695,San Diego
+1696,Bakersfield
+1697,Los Angeles
+1698,Los Angeles
+1699,San Francisco
+1700,San Francisco
+1701,Bakersfield
+1702,Los Angeles
+1703,San Diego
+1704,Los Angeles
+1705,Los Angeles
+1706,San Francisco
+1707,San Francisco
+1708,Redding
+1709,San Diego
+1711,San Francisco
+1712,San Francisco
+1713,Los Angeles
+1714,Los Angeles
+1715,Los Angeles
+1716,Los Angeles
+1717,Los Angeles
+1718,Los Angeles
+1719,San Francisco
+1721,San Francisco
+1722,Los Angeles
+1724,San Diego
+1725,Los Angeles
+1726,San Diego
+1727,San Diego
+1728,Bakersfield
+1729,San Diego
+1730,San Francisco
+1731,Redding
+1732,San Francisco
+1733,Los Angeles
+1734,Los Angeles
+1735,San Diego
+1736,Bakersfield
+1737,San Francisco
+1739,San Diego
+1740,Bakersfield
+1741,Bakersfield
+1742,Redding
+1743,San Diego
+1744,Los Angeles
+1745,San Francisco
+1746,San Diego
+1747,Los Angeles
+1748,San Francisco
+1749,San Francisco
+1750,San Diego
+1752,Bakersfield
+1753,Bakersfield
+1754,San Francisco
+1755,Los Angeles
+1756,Los Angeles
+1757,Bakersfield
+1758,Los Angeles
+1759,Bakersfield
+1760,Los Angeles
+1761,San Diego
+1762,San Francisco
+1763,Los Angeles
+1766,San Francisco
+1767,San Francisco
+1768,San Francisco
+1769,San Francisco
+1771,San Francisco
+1772,Bakersfield
+1773,Redding
+1774,Los Angeles
+1775,San Francisco
+1776,San Diego
+1777,San Francisco
+1778,Los Angeles
+1779,San Francisco
+1781,Los Angeles
+1782,San Francisco
+1783,Los Angeles
+1784,Bakersfield
+1785,Los Angeles
+1786,San Francisco
+1787,Los Angeles
+1788,San Francisco
+1789,Los Angeles
+1792,Redding
+1793,San Francisco
+1794,Los Angeles
+1795,San Diego
+1796,Redding
+1799,San Diego
+1800,Redding
+1801,San Francisco
+1802,Los Angeles
+1803,Los Angeles
+1804,San Francisco
+1805,Los Angeles
+1806,Los Angeles
+1807,Redding
+1809,San Francisco
+1811,San Diego
+1812,San Diego
+1813,San Francisco
+1814,San Diego
+1815,Los Angeles
+1816,Bakersfield
+1817,San Francisco
+1818,Los Angeles
+1819,Los Angeles
+1820,Redding
+1821,Los Angeles
+1822,Los Angeles
+1823,Los Angeles
+1824,San Francisco
+1825,Los Angeles
+1826,San Francisco
+1827,San Diego
+1828,Los Angeles
+1829,Redding
+1831,Los Angeles
+1832,San Francisco
+1833,Bakersfield
+1834,San Diego
+1836,San Francisco
+1837,Bakersfield
+1838,Redding
+1839,Los Angeles
+1840,San Francisco
+1841,Redding
+1842,Los Angeles
+1843,San Francisco
+1844,Redding
+1845,San Francisco
+1846,Bakersfield
+1847,San Francisco
+1848,Los Angeles
+1849,Redding
+1850,Bakersfield
+1851,Los Angeles
+1852,Los Angeles
+1853,Bakersfield
+1854,San Francisco
+1856,San Francisco
+1858,Redding
+1859,Redding
+1860,San Francisco
+1861,Bakersfield
+1862,Los Angeles
+1864,Los Angeles
+1865,San Francisco
+1866,Los Angeles
+1868,Bakersfield
+1869,San Francisco
+1870,Los Angeles
+1871,Bakersfield
+1873,Los Angeles
+1874,Los Angeles
+1875,Los Angeles
+1876,Redding
+1877,San Diego
+1878,San Francisco
+1879,San Diego
+1880,San Francisco
+1881,San Francisco
+1882,Los Angeles
+1884,Los Angeles
+1885,Los Angeles
+1886,San Diego
+1887,San Francisco
+1888,Bakersfield
+1889,San Francisco
+1890,San Francisco
+1892,Los Angeles
+1893,Los Angeles
+1894,Los Angeles
+1895,Redding
+1896,Redding
+1899,Los Angeles
+1900,Bakersfield
+1901,Los Angeles
+1902,Bakersfield
+1903,San Diego
+1905,Redding
+1907,Redding
+1908,Los Angeles
+1909,Los Angeles
+1910,Los Angeles
+1911,Los Angeles
+1912,Los Angeles
+1913,Los Angeles
+1914,Redding
+1915,San Francisco
+1916,San Francisco
+1917,San Diego
+1918,Redding
+1919,Los Angeles
+1920,Bakersfield
+1921,San Diego
+1922,San Francisco
+1923,Los Angeles
+1924,San Diego
+1925,Los Angeles
+1926,Los Angeles
+1927,San Diego
+1928,Bakersfield
+1929,San Diego
+1931,Redding
+1932,Los Angeles
+1933,Los Angeles
+1934,Los Angeles
+1935,Los Angeles
+1936,Los Angeles
+1937,San Francisco
+1939,Los Angeles
+1940,San Diego
+1941,Redding
+1942,Los Angeles
+1943,Bakersfield
+1944,Redding
+1945,Los Angeles
+1946,Redding
+1947,San Francisco
+1948,Los Angeles
+1949,Redding
+1951,Los Angeles
+1952,Los Angeles
+1953,San Diego
+1954,San Francisco
+1955,San Diego
+1956,Los Angeles
+1957,Los Angeles
+1958,Los Angeles
+1959,Bakersfield
+1960,San Francisco
+1961,San Francisco
+1962,Los Angeles
+1963,Redding
+1964,San Diego
+1965,San Diego
+1967,Los Angeles
+1968,Los Angeles
+1969,Los Angeles
+1970,San Francisco
+1971,Bakersfield
+1972,San Diego
+1973,Los Angeles
+1974,San Francisco
+1975,Los Angeles
+1976,Los Angeles
+1977,Los Angeles
+1978,Redding
+1980,Los Angeles
+1981,San Diego
+1982,San Francisco
+1983,San Francisco
+1984,San Francisco
+1985,San Francisco
+1986,Los Angeles
+1987,Los Angeles
+1988,San Francisco
+1989,San Diego
+1991,San Francisco
+1993,Bakersfield
+1994,Los Angeles
+1995,San Francisco
+1996,San Francisco
+1998,Los Angeles
+1999,San Francisco
+2000,Redding
+2001,San Diego
+2002,San Francisco
+2003,Los Angeles
+2004,Los Angeles
+2005,Redding
+2006,Los Angeles
+2007,Los Angeles
+2008,San Francisco
+2009,Los Angeles
+2010,Bakersfield
+2011,San Francisco
+2012,San Francisco
+2013,San Francisco
+2014,San Diego
+2015,Redding
+2016,Los Angeles
+2017,Redding
+2018,Redding
+2019,Redding
+2021,Los Angeles
+2024,Los Angeles
+2025,Los Angeles
+2026,Redding
+2027,San Diego
+2028,Redding
+2030,San Diego
+2031,Redding
+2032,San Francisco
+2033,San Francisco
+2034,San Francisco
+2035,Bakersfield
+2036,Redding
+2037,San Francisco
+2038,Redding
+2041,San Francisco
+2043,Los Angeles
+2044,San Diego
+2045,Los Angeles
+2046,Los Angeles
+2047,San Francisco
+2048,Los Angeles
+2050,Los Angeles
+2052,Los Angeles
+2053,San Francisco
+2054,Los Angeles
+2055,San Diego
+2057,San Francisco
+2058,Los Angeles
+2059,San Francisco
+2060,Bakersfield
+2061,San Francisco
+2062,Los Angeles
+2063,San Francisco
+2064,Redding
+2065,San Francisco
+2066,Los Angeles
+2067,San Francisco
+2068,Los Angeles
+2069,Los Angeles
+2070,Los Angeles
+2071,San Diego
+2072,San Diego
+2073,Bakersfield
+2074,Bakersfield
+2075,San Francisco
+2076,San Francisco
+2077,Bakersfield
+2078,San Diego
+2079,San Francisco
+2082,San Diego
+2083,San Diego
+2084,Redding
+2085,Los Angeles
+2086,Bakersfield
+2087,Los Angeles
+2088,Bakersfield
+2089,Redding
+2090,Bakersfield
+2092,Los Angeles
+2093,Los Angeles
+2094,Los Angeles
+2095,San Francisco
+2096,Los Angeles
+2097,San Francisco
+2098,Redding
+2099,San Francisco
+2101,Los Angeles
+2102,San Francisco
+2103,Los Angeles
+2104,San Francisco
+2105,San Francisco
+2106,Bakersfield
+2107,Los Angeles
+2108,Los Angeles
+2109,Los Angeles
+2111,Los Angeles
+2112,Los Angeles
+2113,Los Angeles
+2114,Redding
+2115,Bakersfield
+2116,Los Angeles
+2117,Los Angeles
+2118,Los Angeles
+2119,Los Angeles
+2121,San Francisco
+2122,San Francisco
+2123,San Francisco
+2124,Los Angeles
+2126,San Francisco
+2128,Redding
+2129,San Francisco
+2130,San Francisco
+2132,San Francisco
+2133,Los Angeles
+2134,San Francisco
+2135,Los Angeles
+2136,San Diego
+2137,San Francisco
+2138,Bakersfield
+2139,Bakersfield
+2140,Los Angeles
+2141,San Francisco
+2142,San Francisco
+2144,San Diego
+2145,Los Angeles
+2146,Bakersfield
+2147,Los Angeles
+2148,Los Angeles
+2149,Redding
+2150,Los Angeles
+2151,San Francisco
+2152,Los Angeles
+2154,Bakersfield
+2155,Los Angeles
+2156,Redding
+2157,Redding
+2158,San Francisco
+2159,Redding
+2160,Los Angeles
+2161,San Diego
+2162,San Diego
+2163,Los Angeles
+2164,Redding
+2165,San Diego
+2166,Los Angeles
+2167,Los Angeles
+2168,San Francisco
+2169,Redding
+2170,Los Angeles
+2171,Los Angeles
+2172,Los Angeles
+2174,Los Angeles
+2175,Redding
+2176,Bakersfield
+2178,Los Angeles
+2179,Redding
+2180,Redding
+2181,Los Angeles
+2184,San Diego
+2185,Redding
+2186,San Diego
+2187,San Diego
+2189,San Francisco
+2191,Los Angeles
+2192,San Francisco
+2193,San Diego
+2194,San Francisco
+2196,San Francisco
+2197,Bakersfield
+2198,Los Angeles
+2199,Los Angeles
+2200,Los Angeles
+2203,San Francisco
+2204,San Francisco
+2205,Los Angeles
+2206,Bakersfield
+2207,Los Angeles
+2208,Los Angeles
+2209,San Francisco
+2211,Los Angeles
+2212,Los Angeles
+2213,Redding
+2215,Los Angeles
+2216,San Diego
+2217,San Diego
+2219,Redding
+2222,San Francisco
+2223,Los Angeles
+2224,San Francisco
+2225,Los Angeles
+2226,San Diego
+2227,San Francisco
+2228,Los Angeles
+2229,Los Angeles
+2230,Los Angeles
+2231,Los Angeles
+2232,San Francisco
+2233,Los Angeles
+2234,Los Angeles
+2235,Los Angeles
+2236,Bakersfield
+2237,San Francisco
+2239,San Diego
+2240,Los Angeles
+2241,San Francisco
+2242,Los Angeles
+2243,San Francisco
+2244,Bakersfield
+2246,Los Angeles
+2247,Redding
+2248,Los Angeles
+2250,Redding
+2252,San Francisco
+2253,Los Angeles
+2254,Los Angeles
+2255,San Francisco
+2256,Los Angeles
+2258,Los Angeles
+2259,Los Angeles
+2260,San Francisco
+2261,Bakersfield
+2262,Los Angeles
+2264,Redding
+2265,San Diego
+2266,San Diego
+2267,Redding
+2268,San Francisco
+2269,Los Angeles
+2270,San Francisco
+2271,Los Angeles
+2272,Los Angeles
+2273,Los Angeles
+2274,Redding
+2276,Los Angeles
+2277,Redding
+2278,San Diego
+2279,San Francisco
+2280,Bakersfield
+2281,San Francisco
+2283,Los Angeles
+2284,Redding
+2285,Redding
+2286,San Francisco
+2287,San Francisco
+2288,Los Angeles
+2289,Los Angeles
+2290,Los Angeles
+2291,San Francisco
+2292,San Francisco
+2293,Redding
+2294,Redding
+2295,Los Angeles
+2296,Redding
+2297,Los Angeles
+2298,San Francisco
+2299,San Francisco
+2300,San Francisco
+2301,San Francisco
+2302,Los Angeles
+2304,Los Angeles
+2305,San Diego
+2306,Redding
+2307,Bakersfield
+2308,San Francisco
+2309,San Francisco
+2310,San Diego
+2311,San Diego
+2312,San Francisco
+2313,San Francisco
+2314,Redding
+2315,San Francisco
+2316,San Diego
+2317,San Diego
+2318,San Diego
+2320,Bakersfield
+2321,Redding
+2322,Redding
+2323,Redding
+2324,Los Angeles
+2325,Los Angeles
+2326,Redding
+2327,Los Angeles
+2328,Los Angeles
+2329,San Francisco
+2330,Los Angeles
+2332,San Francisco
+2333,Bakersfield
+2334,San Diego
+2335,Los Angeles
+2337,Los Angeles
+2338,Los Angeles
+2339,Los Angeles
+2340,Los Angeles
+2341,Redding
+2346,Los Angeles
+2348,Redding
+2349,Los Angeles
+2350,Los Angeles
+2351,Los Angeles
+2352,Bakersfield
+2353,San Francisco
+2354,San Diego
+2355,Los Angeles
+2356,San Diego
+2357,Los Angeles
+2358,San Francisco
+2359,Los Angeles
+2360,Bakersfield
+2361,Bakersfield
+2362,Los Angeles
+2363,Los Angeles
+2364,Los Angeles
+2368,San Francisco
+2369,Los Angeles
+2370,San Francisco
+2371,San Diego
+2373,Bakersfield
+2374,Los Angeles
+2376,Los Angeles
+2377,Los Angeles
+2378,Los Angeles
+2379,Bakersfield
+2380,Los Angeles
+2381,San Francisco
+2382,San Francisco
+2383,Los Angeles
+2384,Los Angeles
+2385,Los Angeles
+2386,Bakersfield
+2387,Los Angeles
+2388,Los Angeles
+2389,Los Angeles
+2390,San Francisco
+2391,Los Angeles
+2392,Los Angeles
+2393,San Francisco
+2394,San Francisco
+2395,Los Angeles
+2396,San Francisco
+2397,Bakersfield
+2398,Los Angeles
+2399,Los Angeles
+2400,San Diego
+2401,Los Angeles
+2404,Bakersfield
+2405,Redding
+2406,Los Angeles
+2407,San Francisco
+2408,San Diego
+2409,Redding
+2411,Los Angeles
+2412,Bakersfield
+2413,Los Angeles
+2414,San Francisco
+2415,San Diego
+2416,Bakersfield
+2417,Los Angeles
+2418,Redding
+2419,San Francisco
+2421,Redding
+2422,San Francisco
+2424,San Francisco
+2425,Redding
+2429,San Diego
+2430,San Francisco
+2432,Los Angeles
+2433,Los Angeles
+2434,Los Angeles
+2435,San Diego
+2436,Los Angeles
+2437,San Francisco
+2438,San Francisco
+2439,Los Angeles
+2441,Los Angeles
+2442,Los Angeles
+2443,San Francisco
+2444,San Francisco
+2445,San Francisco
+2446,Los Angeles
+2447,Los Angeles
+2448,Los Angeles
+2449,Los Angeles
+2450,Los Angeles
+2452,Los Angeles
+2453,Los Angeles
+2454,Los Angeles
+2456,Los Angeles
+2457,San Francisco
+2458,Los Angeles
+2459,Bakersfield
+2460,San Francisco
+2461,Los Angeles
+2462,San Francisco
+2463,Los Angeles
+2464,Los Angeles
+2465,San Francisco
+2466,Los Angeles
+2467,Los Angeles
+2469,San Diego
+2470,San Francisco
+2471,San Francisco
+2472,San Francisco
+2474,San Francisco
+2475,San Francisco
+2476,Bakersfield
+2477,Los Angeles
+2479,Redding
+2480,Los Angeles
+2481,San Francisco
+2482,Los Angeles
+2483,San Francisco
+2485,Bakersfield
+2486,Bakersfield
+2487,San Francisco
+2488,San Francisco
+2489,San Francisco
+2490,Los Angeles
+2491,San Diego
+2493,Los Angeles
+2494,Los Angeles
+2495,Los Angeles
+2496,Redding
+2497,San Francisco
+2498,Bakersfield
+2499,San Francisco
+2500,Los Angeles
+2501,Los Angeles
+2502,Los Angeles
+2505,Los Angeles
+2506,San Diego
+2507,Los Angeles
+2508,Los Angeles
+2509,San Francisco
+2510,Bakersfield
+2511,Los Angeles
+2512,San Francisco
+2513,San Francisco
+2514,San Diego
+2515,Los Angeles
+2516,San Francisco
+2517,Los Angeles
+2518,Redding
+2519,Los Angeles
+2521,San Diego
+2522,Los Angeles
+2523,Redding
+2525,San Diego
+2526,Los Angeles
+2527,Bakersfield
+2528,Los Angeles
+2529,San Francisco
+2530,San Francisco
+2532,Redding
+2533,San Francisco
+2534,San Francisco
+2535,Los Angeles
+2536,San Francisco
+2537,Los Angeles
+2538,Los Angeles
+2539,San Francisco
+2540,Bakersfield
+2541,San Diego
+2542,Los Angeles
+2544,Los Angeles
+2545,Los Angeles
+2546,San Diego
+2547,Los Angeles
+2548,San Francisco
+2549,Bakersfield
+2551,San Francisco
+2552,Bakersfield
+2553,Los Angeles
+2554,Los Angeles
+2555,San Francisco
+2557,Los Angeles
+2558,Redding
+2559,San Francisco
+2560,San Francisco
+2562,Los Angeles
+2563,Los Angeles
+2564,Los Angeles
+2565,Los Angeles
+2566,San Francisco
+2567,Bakersfield
+2568,San Francisco
+2571,Los Angeles
+2573,Los Angeles
+2574,Los Angeles
+2575,Redding
+2577,Redding
+2578,Los Angeles
+2579,Redding
+2580,Los Angeles
+2581,San Francisco
+2582,Los Angeles
+2583,Los Angeles
+2584,Los Angeles
+2585,Redding
+2586,San Francisco
+2587,Bakersfield
+2589,San Diego
+2590,Los Angeles
+2591,San Diego
+2592,Redding
+2593,Los Angeles
+2594,San Francisco
+2595,Los Angeles
+2597,San Francisco
+2598,Los Angeles
+2600,Los Angeles
+2601,Los Angeles
+2602,Los Angeles
+2603,San Francisco
+2605,Los Angeles
+2607,Redding
+2608,Los Angeles
+2609,Bakersfield
+2610,Los Angeles
+2611,Los Angeles
+2612,Los Angeles
+2613,Los Angeles
+2614,Bakersfield
+2615,San Francisco
+2616,Redding
+2618,Los Angeles
+2619,Los Angeles
+2621,Bakersfield
+2622,San Diego
+2623,San Francisco
+2624,San Diego
+2625,San Francisco
+2626,San Francisco
+2627,Redding
+2628,Los Angeles
+2629,Los Angeles
+2631,Los Angeles
+2632,Bakersfield
+2633,Los Angeles
+2634,San Francisco
+2635,Redding
+2636,San Francisco
+2639,San Francisco
+2640,San Diego
+2641,Los Angeles
+2643,Bakersfield
+2645,Los Angeles
+2647,Los Angeles
+2648,Los Angeles
+2649,San Diego
+2650,Los Angeles
+2651,Redding
+2652,San Francisco
+2653,Bakersfield
+2654,Los Angeles
+2655,Bakersfield
+2656,San Francisco
+2659,San Francisco
+2660,Redding
+2661,Los Angeles
+2662,Los Angeles
+2663,Los Angeles
+2665,Los Angeles
+2669,San Francisco
+2670,Bakersfield
+2671,Los Angeles
+2672,Los Angeles
+2673,San Diego
+2675,San Diego
+2676,San Francisco
+2678,Los Angeles
+2679,San Francisco
+2680,San Francisco
+2682,San Francisco
+2683,Los Angeles
+2684,Los Angeles
+2685,Los Angeles
+2686,San Diego
+2687,Los Angeles
+2688,Redding
+2689,Los Angeles
+2690,Los Angeles
+2691,Los Angeles
+2692,San Francisco
+2693,San Francisco
+2694,Los Angeles
+2695,Los Angeles
+2696,San Diego
+2697,Los Angeles
+2698,San Francisco
+2699,Los Angeles
+2700,Redding
+2701,Los Angeles
+2702,San Diego
+2703,Los Angeles
+2704,San Francisco
+2705,Los Angeles
+2708,Redding
+2709,Redding
+2711,Los Angeles
+2712,San Francisco
+2713,Bakersfield
+2715,Bakersfield
+2717,Los Angeles
+2718,Redding
+2720,Los Angeles
+2721,San Francisco
+2722,Los Angeles
+2723,San Francisco
+2724,Los Angeles
+2725,Bakersfield
+2727,San Francisco
+2729,Los Angeles
+2730,Los Angeles
+2731,Los Angeles
+2732,Bakersfield
+2733,San Francisco
+2735,San Francisco
+2736,San Francisco
+2737,Redding
+2738,Los Angeles
+2740,Bakersfield
+2741,San Francisco
+2742,Los Angeles
+2743,San Francisco
+2744,Los Angeles
+2745,Los Angeles
+2746,Los Angeles
+2747,San Diego
+2748,Los Angeles
+2749,Los Angeles
+2750,Bakersfield
+2751,San Francisco
+2752,San Francisco
+2753,San Diego
+2754,Bakersfield
+2755,Bakersfield
+2756,Los Angeles
+2757,Los Angeles
+2758,Los Angeles
+2759,San Diego
+2760,San Diego
+2761,Los Angeles
+2762,San Francisco
+2763,Los Angeles
+2764,Bakersfield
+2765,Los Angeles
+2766,San Francisco
+2767,San Francisco
+2768,San Francisco
+2770,San Francisco
+2771,San Francisco
+2773,Redding
+2775,Redding
+2776,Los Angeles
+2777,San Francisco
+2778,Redding
+2779,Bakersfield
+2780,San Francisco
+2781,San Francisco
+2782,San Francisco
+2783,Redding
+2784,Redding
+2786,Redding
+2787,San Francisco
+2788,San Francisco
+2789,Los Angeles
+2790,San Francisco
+2791,Los Angeles
+2792,San Francisco
+2793,Redding
+2794,Bakersfield
+2795,San Francisco
+2796,Los Angeles
+2797,Los Angeles
+2798,Redding
+2799,San Francisco
+2800,Los Angeles
+2801,Los Angeles
+2802,Bakersfield
+2805,San Diego
+2806,San Francisco
+2807,Los Angeles
+2808,San Francisco
+2809,Los Angeles
+2810,Los Angeles
+2811,San Francisco
+2812,San Francisco
+2813,Los Angeles
+2814,San Diego
+2815,Los Angeles
+2816,Redding
+2817,Los Angeles
+2818,San Francisco
+2819,Los Angeles
+2820,Los Angeles
+2821,Bakersfield
+2822,San Francisco
+2823,Bakersfield
+2824,Los Angeles
+2825,Los Angeles
+2826,Los Angeles
+2827,Bakersfield
+2828,San Diego
+2829,San Francisco
+2830,Los Angeles
+2831,Los Angeles
+2833,San Francisco
+2834,San Francisco
+2835,Los Angeles
+2836,Los Angeles
+2837,Bakersfield
+2838,Los Angeles
+2839,San Francisco
+2842,San Diego
+2843,San Francisco
+2844,San Diego
+2845,San Francisco
+2846,San Francisco
+2847,San Diego
+2848,San Diego
+2849,Los Angeles
+2850,San Francisco
+2851,San Francisco
+2852,San Diego
+2853,San Diego
+2854,Redding
+2855,Los Angeles
+2856,Los Angeles
+2858,Los Angeles
+2860,San Francisco
+2861,San Francisco
+2862,Redding
+2863,San Diego
+2864,San Diego
+2865,San Diego
+2866,San Francisco
+2869,San Diego
+2870,Los Angeles
+2871,Redding
+2872,Bakersfield
+2873,Redding
+2875,Los Angeles
+2878,Los Angeles
+2879,San Francisco
+2881,Redding
+2884,San Francisco
+2885,Los Angeles
+2886,Los Angeles
+2887,Bakersfield
+2888,San Diego
+2889,Redding
+2891,Bakersfield
+2894,San Diego
+2895,San Francisco
+2896,Bakersfield
+2897,Bakersfield
+2898,Los Angeles
+2899,San Francisco
+2900,Redding
+2901,Los Angeles
+2902,Bakersfield
+2905,Redding
+2907,Los Angeles
+2908,San Francisco
+2909,San Francisco
+2910,Los Angeles
+2912,Redding
+2913,San Francisco
+2914,Los Angeles
+2915,Redding
+2916,San Francisco
+2917,San Francisco
+2919,Redding
+2920,Redding
+2922,San Francisco
+2923,Los Angeles
+2924,San Diego
+2925,San Francisco
+2926,Los Angeles
+2927,San Francisco
+2930,San Francisco
+2931,Los Angeles
+2933,Bakersfield
+2934,Los Angeles
+2935,Los Angeles
+2936,Bakersfield
+2937,San Francisco
+2938,San Francisco
+2939,San Francisco
+2940,Redding
+2941,Redding
+2942,Los Angeles
+2944,San Francisco
+2945,San Francisco
+2947,Redding
+2948,Bakersfield
+2951,Redding
+2952,Los Angeles
+2953,Bakersfield
+2954,Redding
+2955,Los Angeles
+2956,Los Angeles
+2957,Los Angeles
+2958,Los Angeles
+2961,Los Angeles
+2963,Los Angeles
+2964,Los Angeles
+2965,San Francisco
+2966,Bakersfield
+2967,Los Angeles
+2968,Los Angeles
+2969,Los Angeles
+2970,San Francisco
+2971,Bakersfield
+2973,San Francisco
+2975,Bakersfield
+2977,Bakersfield
+2978,Redding
+2979,Los Angeles
+2980,Bakersfield
+2981,Bakersfield
+2982,Los Angeles
+2984,Los Angeles
+2985,Bakersfield
+2986,Los Angeles
+2987,San Francisco
+2988,San Francisco
+2989,San Francisco
+2990,Los Angeles
+2991,Los Angeles
+2992,San Francisco
+2993,Los Angeles
+2994,Los Angeles
+2995,Bakersfield
+2997,Bakersfield
+2998,Los Angeles
+2999,Bakersfield
