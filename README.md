@@ -163,7 +163,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7zlBiXLjOLI?rel=0&si=JT1aaR2NqEeVbBRB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://github.com/Mike-Morrow/TC_Spatial_Autocorrelation/blob/main/spatial_table_extension.py"> Link to code here </a>
+<br>
+<a href="https://github.com/Mike-Morrow/TC_Spatial_Autocorrelation/blob/main/spatial_table_extension.py" target="_blank"> Link to code here </a>
 
 <h2 id="join-table-extension">11 - Join the table extension table back into the original data source </h2>
 
@@ -242,7 +243,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I0Y2mcrhr3U?rel=0&si=yU1NJSX4hUhciw97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://github.com/Mike-Morrow/TC_Spatial_Autocorrelation/blob/main/dynamic_calc.txt"> Link to calculated field </a>
+<br>
+<a href="https://github.com/Mike-Morrow/TC_Spatial_Autocorrelation/blob/main/dynamic_calc.txt" target="_blank"> Link to calculated field </a>
 
 <p>Congrats on making it to the end! </p>
 
