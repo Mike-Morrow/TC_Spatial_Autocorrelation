@@ -75,6 +75,8 @@
 <div id="content">
 <h1>TC Advanced Stats Problem 2: Solving the mystery of sporadic reviews with spatial autocorrelation</h1>
 
+*note all videos are without sound*
+
 <h2 id="connect-to-data">1 - Connect to data</h2>
 
 <p>Download the Order Reviews csv file and connect to it in Tableau Desktop.</p>
