@@ -157,6 +157,8 @@
 
 <h2 id="spatial-autocorrelation">10 - Copy and paste the spatial autocorrelation python code into the table extension</h2>
 
+Link to code here: https://github.com/Mike-Morrow/TC_Spatial_Autocorrelation/blob/main/spatial_table_extension.py
+
 <p>Get the autocorrelation code and paste it into the built-in text editor in the data model. Take a few minutes to read through the code to understand the actions it's performing. What do you expect the output to look like? </p>
 
 
