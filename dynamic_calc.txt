@@ -1,0 +1,32 @@
+SCRIPT_REAL("
+import pandas as pd
+import geopandas as gpd
+from pysal.lib import weights
+from pysal.explore import esda
+
+def calculate_morans_i(longitude, latitude, median_house_value):
+    print(len(longitude))
+    print(pd.Series(longitude))
+    df_housing = pd.DataFrame({
+        'longitude': longitude,
+        'latitude': latitude,
+        'median_house_value': median_house_value
+    })
+
+    # Convert the DataFrame to a GeoDataFrame
+    gdf = gpd.GeoDataFrame(df_housing, geometry=gpd.points_from_xy(df_housing.longitude, df_housing.latitude))
+
+    # Create a spatial weights matrix. Adjust `k` as necessary for your data.
+    w = weights.KNN.from_dataframe(gdf, k=2)  # k-nearest neighbors
+
+    # Row-standardize the weights
+    w.transform = 'R'
+
+    # Calculate Moran's I
+    mi = esda.moran.Moran(gdf['median_house_value'], w)
+    return mi.I
+
+
+return calculate_morans_i(_arg1, _arg2, _arg3)
+",
+min([Longitude]), min([Latitude]), [Measure Selector])
