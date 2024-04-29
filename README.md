@@ -157,13 +157,13 @@
 
 <h2 id="spatial-autocorrelation">10 - Copy and paste the spatial autocorrelation python code into the table extension</h2>
 
-Link to code here: https://github.com/Mike-Morrow/TC_Spatial_Autocorrelation/blob/main/spatial_table_extension.py
-
 <p>Get the autocorrelation code and paste it into the built-in text editor in the data model. Take a few minutes to read through the code to understand the actions it's performing. What do you expect the output to look like? </p>
 
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7zlBiXLjOLI?rel=0&si=JT1aaR2NqEeVbBRB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Link to code here: https://github.com/Mike-Morrow/TC_Spatial_Autocorrelation/blob/main/spatial_table_extension.py
 
 <h2 id="join-table-extension">11 - Join the table extension table back into the original data source </h2>
 
@@ -241,6 +241,8 @@ Link to code here: https://github.com/Mike-Morrow/TC_Spatial_Autocorrelation/blo
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I0Y2mcrhr3U?rel=0&si=yU1NJSX4hUhciw97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Link to calculated field: https://github.com/Mike-Morrow/TC_Spatial_Autocorrelation/blob/main/dynamic_calc.txt
 
 <p>Congrats on making it to the end! </p>
 
